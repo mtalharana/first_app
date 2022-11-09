@@ -1,16 +1,23 @@
-# first_app
+My First Flutter Project
 
-A new Flutter project.
+Project Name:
+My First Flutter Project
 
-## Getting Started
+Project Description:
+First App was implemented after the complete flutter setup. Running the first app was the final outcome of the hectic installation processes. The first app contains just some basic predefined code with little modification.
 
-This project is a starting point for a Flutter application.
+Code:
+https://lnkd.in/d8NHzz4h
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Stay Tuned for my Exciting flutter journey.
+Please react with Love, Comment, Repost, or send it to those whom you care much, about this amazing journey.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+#project #flutter #jobs #mobileapp
+#lahorejobs #journey #github #development
+#flutterdev #fluttercommunity #flutterjobs
